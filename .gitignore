@@ -1,0 +1,21 @@
+#maven build 
+target/
+classes/
+.settings/
+.classpath
+/proshot-api/webapp/WEB-INF/lib/
+/proshot-wechat/webapp/WEB-INF/lib/
+/proshot-web/webapp/WEB-INF/lib/
+/proshot-zip/webapp/WEB-INF/lib/
+*/bin/
+*.jar
+*.class
+*.iml
+
+#Compiler file
+.metadata/*
+.DS_Store
+#.project
+.idea/
+.gitignore~
+
