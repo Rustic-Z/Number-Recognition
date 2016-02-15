@@ -17,5 +17,5 @@ classes/
 .DS_Store
 #.project
 .idea/
-.gitignore~
+*~
 
