@@ -7,7 +7,7 @@ classes/
 /proshot-wechat/webapp/WEB-INF/lib/
 /proshot-web/webapp/WEB-INF/lib/
 /proshot-zip/webapp/WEB-INF/lib/
-*/bin/
+*bin/
 *.jar
 *.class
 *.iml
