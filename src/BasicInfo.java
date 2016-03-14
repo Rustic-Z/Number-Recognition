@@ -9,7 +9,7 @@ public class BasicInfo {
 		width = 100;
 		height = 100;
 		k = 13;
-		finalDis = "/home/zhangchao/workspace/Number Recognition/src/finalgoal";// 最终处理后的txt文件夹;
+		finalDis = "/home/zhangchao/workspace/Number-Recognition/src/finalgoal";// 最终处理后的txt文件夹;
 	}
 
 	//getter&setter
